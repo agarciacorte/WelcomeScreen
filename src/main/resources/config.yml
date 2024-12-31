@@ -1,0 +1,35 @@
+server_name: "<bold><blue>8builders</blue><gray>8tools</gray></bold>"
+messages:
+  en:
+    title: "<gray>Welcome <reset>%player%"
+    subtitle: "<gray>to <blue>%servername%</blue></gray>"
+  es:
+    title: "<gray>Bienvenido <reset>%player%"
+    subtitle: "<gray>al servidor <blue>%servername%</blue></gray>"
+  ar:
+    title: "<gray>أهلاً <reset>%player%"
+    subtitle: "<gray>في <blue>%servername%</blue></gray>"
+  fr:
+    title: "<gray>Bienvenue <reset>%player%"
+    subtitle: "<gray>sur <blue>%servername%</blue></gray>"
+  hi:
+    title: "<gray>स्वागत है <reset>%player%"
+    subtitle: "<gray><blue>%servername%</blue> में</gray>"
+  it:
+    title: "<gray>Benvenuto <reset>%player%"
+    subtitle: "<gray>su <blue>%servername%</blue></gray>"
+  jp:
+    title: "<gray>ようこそ <reset>%player%"
+    subtitle: "<gray><blue>%servername%</blue> へ</gray>"
+  pt:
+    title: "<gray>Bem-vindo <reset>%player%"
+    subtitle: "<gray>ao <blue>%servername%</blue></gray>"
+  ru:
+    title: "<gray>Добро пожаловать <reset>%player%"
+    subtitle: "<gray>на <blue>%servername%</blue></gray>"
+  tr:
+    title: "<gray><reset>%player%"
+    subtitle: "<gray><blue>%servername%</blue>'ye hoş geldiniz</gray>"
+  zh:
+    title: "<gray>欢迎 <reset>%player%"
+    subtitle: "<gray>来到 <blue>%servername%</blue></gray>"
